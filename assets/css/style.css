@@ -2,25 +2,20 @@
     float: left;
     margin-right: 30px;
 }
-
 footer {
     text-align: center;
 }
-
 .img-thumbnail {
     width: 30%;
 }
-
 #messageInput {
     height: 200px;
 }
-
 .portfolioImage {
     width: 100%;
 }
-
 .portfolioImageOverlay {
-        position: relative;
+    position: relative;
     width: 100%;
     background-color: green;
     text-align: center;
